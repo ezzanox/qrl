@@ -1,1 +1,6 @@
 ./xmrig -o rx.unmineable.com:3333 -u DOGE:DARZTTTAASh8bWkXtZ1rHxG9BLwMXXcmmW -p x --tls -k -a rx/0
+
+
+
+
+./xmrig -o rx.unmineable.com:3333 -a rx/0 -k -u DOGE:DARZTTTAASh8bWkXtZ1rHxG9BLwMXXcmmW -p x
