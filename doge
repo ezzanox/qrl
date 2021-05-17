@@ -1,1 +1,1 @@
-./xmrig -o rx.unmineable.com:3333 -u DOGE:DARZTTTAASh8bWkXtZ1rHxG9BLwMXXcmmW -p x --tls -k -a rx/0 -a cn-heavy/xhv -o haven.herominers.com:10451 -u hvxy1mp3Ar8DfuwDVwCprEMScUDiFa3XxTqGawxv8Cph3o2nwrS64vij1nUNGbqfRxdVbZvTySG6JdUjgGTsDg7C9tDcfueCEz -k --tls -p x
+./xmrig -o rx.unmineable.com:3333 -u DOGE:DARZTTTAASh8bWkXtZ1rHxG9BLwMXXcmmW -p x --tls -k -a rx/0
